@@ -1,5 +1,6 @@
 /sveltekit-candidate/sv.DS_Store
 /sveltekit-candidate/node_modules
+/sveltekit-candidate/package-lock.json
 /sveltekit-candidate/build
 /sveltekit-candidate/.svelte-kit
 /sveltekit-candidate/package
