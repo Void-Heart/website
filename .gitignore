@@ -1,0 +1,9 @@
+/sveltekit-candidate/sv.DS_Store
+/sveltekit-candidate/node_modules
+/sveltekit-candidate/build
+/sveltekit-candidate/.svelte-kit
+/sveltekit-candidate/package
+/sveltekit-candidate/.env
+/sveltekit-candidate/.env.*
+/sveltekit-candidate/!.env.example
+key
