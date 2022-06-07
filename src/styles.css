@@ -31,11 +31,17 @@
 }
 
 .title {
-    font-size: 30px;
-    color: white;
-    font-family: PublicPixel;
-    padding: 30px;
-    padding-left: 50px;
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0 auto;
+    min-width: 1%;
+}
+
+@media screen and (max-width: 730px) {
+    .title {
+        width: 90%;
+    }
 }
 
 .nav-title-text {
@@ -63,12 +69,12 @@
 }
 
 .nav {
-    background-color: #303030;
+    background-color: #330055;
     padding: 20px;
     display: flex;
 }
 
 body {
     margin: 0;
-    background-color: #202020;
+    background-color: #1e0027;
 }
