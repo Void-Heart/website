@@ -23,6 +23,14 @@
     color: white;
 }
 
+.title {
+    font-size: 30px;
+    color: white;
+    font-family: PublicPixel;
+    padding: 30px;
+    padding-left: 50px;
+}
+
 .nav-title-text {
     padding-left: 5px;
 }
