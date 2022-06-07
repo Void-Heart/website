@@ -18,6 +18,13 @@
     border: solid 2px white;
 }
 
+@media screen and (max-width: 480px) {
+    .card {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+}
+
 .nav-text {
     text-decoration: none;
     color: white;
@@ -44,6 +51,7 @@
     text-align: center;
     font-family: PublicPixel;
     color: white;
+    word-break: break-all;
 }
 
 .nav-item {
