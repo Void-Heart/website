@@ -1,0 +1,56 @@
+@font-face {
+    font-family: PublicPixel;
+    src: url("/fonts/gamefont.ttf");
+}
+
+.card-group {
+    text-align: center;
+    margin: 40px;
+}
+
+.card {
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid 2px black;
+}
+
+.nav-text {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-title-text {
+    padding-left: 5px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.card-text {
+    text-align: center;
+    font-family: PublicPixel;
+}
+
+.nav-item {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-family: PublicPixel;
+    font-size: 15px;
+}
+
+.nav {
+    background-color: #303030;
+    padding: 20px;
+    display: flex;
+}
+
+body {
+    margin: 0;
+}
